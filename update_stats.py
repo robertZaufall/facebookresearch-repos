@@ -62,6 +62,10 @@ AUTO_KEYWORD_TERMS: tuple[tuple[str, tuple[str, ...]], ...] = (
     ("Dataset", ("dataset", "data set")),
     ("Science", ("chemistry", "neuroscience", "biology", "scientific")),
     ("Privacy", ("privacy", "anonymization", "watermark")),
+    ("Reasoning", ("reasoning", "deep think", "confidence")),
+    ("World Model", ("world model", "code world model")),
+    ("Lean", ("lean", "autoformal")),
+    ("Watermark", ("watermark", "watermarking", "content seal")),
 )
 SUBSTRING_KEYWORDS: set[str] = set()
 
@@ -488,11 +492,14 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "augly": "ml-systems-optimization",
         "atlas-lean": "data-evaluation-science",
         "balance": "data-evaluation-science",
+        "boxer": "vision-video-3d",
         "brain2qwerty": "data-evaluation-science",
         "detectron2": "vision-video-3d",
         "dinov2": "vision-video-3d",
         "dinov3": "vision-video-3d",
+        "content-seal": "data-evaluation-science",
         "dcperf": "ml-systems-optimization",
+        "deepconf": "agents-reasoning-rl",
         "ego4d": "embodied-ar-robotics",
         "fairchem": "data-evaluation-science",
         "fairseq2": "language-speech-multimodal",
@@ -515,6 +522,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "seamless_communication": "language-speech-multimodal",
         "shaper": "vision-video-3d",
         "spdl": "ml-systems-optimization",
+        "spider": "embodied-ar-robotics",
         "tensor-layouts": "ml-systems-optimization",
         "tribev2": "data-evaluation-science",
         "unibench": "data-evaluation-science",
