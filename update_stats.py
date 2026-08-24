@@ -497,7 +497,9 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "detectron2": "vision-video-3d",
         "dinov2": "vision-video-3d",
         "dinov3": "vision-video-3d",
+        "coconut": "agents-reasoning-rl",
         "content-seal": "data-evaluation-science",
+        "cwm": "agents-reasoning-rl",
         "dcperf": "ml-systems-optimization",
         "deepconf": "agents-reasoning-rl",
         "ego4d": "embodied-ar-robotics",
@@ -505,7 +507,6 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "fairseq2": "language-speech-multimodal",
         "faiss": "ml-systems-optimization",
         "fvcore": "ml-systems-optimization",
-        "hydra": "ml-systems-optimization",
         "kats": "data-evaluation-science",
         "meshflow": "vision-video-3d",
         "meta-agents-research-environments": "agents-reasoning-rl",
@@ -528,6 +529,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "unibench": "data-evaluation-science",
         "vggt": "vision-video-3d",
         "vggt-omega": "vision-video-3d",
+        "vlm3": "vision-video-3d",
         "xformers": "ml-systems-optimization",
     }
     clusters_by_key = {cluster.key: cluster for cluster in CLUSTERS}
