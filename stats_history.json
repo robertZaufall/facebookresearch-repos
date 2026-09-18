@@ -21209,9 +21209,9 @@
           "stars": 556
         },
         "facebookresearch/HyperAgents": {
-          "forks": 359,
+          "forks": 361,
           "pushed_at": "2026-07-31T16:56:22Z",
-          "stars": 2743
+          "stars": 2747
         },
         "facebookresearch/Kats": {
           "forks": 635,
@@ -21249,7 +21249,7 @@
           "stars": 361
         },
         "facebookresearch/ProgramBench": {
-          "forks": 67,
+          "forks": 66,
           "pushed_at": "2026-09-08T23:21:22Z",
           "stars": 927
         },
@@ -21294,9 +21294,9 @@
           "stars": 767
         },
         "facebookresearch/boxer": {
-          "forks": 73,
+          "forks": 74,
           "pushed_at": "2026-07-28T00:31:24Z",
-          "stars": 655
+          "stars": 656
         },
         "facebookresearch/brain2qwerty": {
           "forks": 133,
@@ -21306,7 +21306,7 @@
         "facebookresearch/coconut": {
           "forks": 189,
           "pushed_at": "2026-07-02T08:17:30Z",
-          "stars": 1707
+          "stars": 1708
         },
         "facebookresearch/content-seal": {
           "forks": 14,
@@ -21331,7 +21331,7 @@
         "facebookresearch/dinov3": {
           "forks": 963,
           "pushed_at": "2026-07-15T13:57:04Z",
-          "stars": 11408
+          "stars": 11409
         },
         "facebookresearch/dpr-scale": {
           "forks": 33,
@@ -21346,12 +21346,12 @@
         "facebookresearch/eb_jepa": {
           "forks": 103,
           "pushed_at": "2026-07-17T22:33:32Z",
-          "stars": 780
+          "stars": 781
         },
         "facebookresearch/fairchem": {
           "forks": 509,
           "pushed_at": "2026-09-18T04:10:56Z",
-          "stars": 2255
+          "stars": 2258
         },
         "facebookresearch/fairseq2": {
           "forks": 144,
@@ -21360,8 +21360,8 @@
         },
         "facebookresearch/faiss": {
           "forks": 4526,
-          "pushed_at": "2026-09-18T06:23:46Z",
-          "stars": 40930
+          "pushed_at": "2026-09-18T09:31:24Z",
+          "stars": 40929
         },
         "facebookresearch/fvcore": {
           "forks": 236,
@@ -21386,7 +21386,7 @@
         "facebookresearch/map-anything": {
           "forks": 283,
           "pushed_at": "2026-08-07T19:34:34Z",
-          "stars": 3747
+          "stars": 3748
         },
         "facebookresearch/matrix": {
           "forks": 45,
@@ -21430,13 +21430,13 @@
         },
         "facebookresearch/neuroai": {
           "forks": 75,
-          "pushed_at": "2026-09-17T22:12:00Z",
+          "pushed_at": "2026-09-18T11:14:10Z",
           "stars": 310
         },
         "facebookresearch/nevergrad": {
           "forks": 371,
           "pushed_at": "2026-07-24T21:41:13Z",
-          "stars": 4206
+          "stars": 4207
         },
         "facebookresearch/nymeria_dataset": {
           "forks": 20,
@@ -21465,13 +21465,13 @@
         },
         "facebookresearch/project_superdex": {
           "forks": 65,
-          "pushed_at": "2026-09-18T00:35:18Z",
+          "pushed_at": "2026-09-18T10:59:50Z",
           "stars": 663
         },
         "facebookresearch/projectaria_tools": {
           "forks": 126,
           "pushed_at": "2026-09-15T00:00:43Z",
-          "stars": 844
+          "stars": 845
         },
         "facebookresearch/pytorch3d": {
           "forks": 1466,
@@ -21486,7 +21486,7 @@
         "facebookresearch/sam3": {
           "forks": 1772,
           "pushed_at": "2026-08-26T11:37:20Z",
-          "stars": 11698
+          "stars": 11703
         },
         "facebookresearch/schedule_free": {
           "forks": 78,
@@ -21539,14 +21539,14 @@
           "stars": 227
         },
         "facebookresearch/vggt-omega": {
-          "forks": 357,
+          "forks": 358,
           "pushed_at": "2026-09-17T22:08:05Z",
-          "stars": 4510
+          "stars": 4512
         },
         "facebookresearch/videoseal": {
           "forks": 100,
           "pushed_at": "2026-07-02T10:11:33Z",
-          "stars": 775
+          "stars": 776
         },
         "facebookresearch/vizseq": {
           "forks": 55,
