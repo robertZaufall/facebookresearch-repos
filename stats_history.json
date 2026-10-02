@@ -26651,7 +26651,7 @@
         "facebookresearch/ProgramBench": {
           "forks": 68,
           "pushed_at": "2026-09-29T06:42:27Z",
-          "stars": 941
+          "stars": 942
         },
         "facebookresearch/RAM": {
           "forks": 51,
@@ -26698,20 +26698,15 @@
           "pushed_at": "2026-09-24T16:04:22Z",
           "stars": 938
         },
-        "facebookresearch/coconut": {
-          "forks": 193,
-          "pushed_at": "2026-07-02T08:17:30Z",
-          "stars": 1715
-        },
         "facebookresearch/content-seal": {
           "forks": 14,
           "pushed_at": "2026-07-08T10:31:22Z",
-          "stars": 243
+          "stars": 242
         },
         "facebookresearch/context-language-models": {
-          "forks": 46,
+          "forks": 50,
           "pushed_at": "2026-10-01T00:08:56Z",
-          "stars": 376
+          "stars": 406
         },
         "facebookresearch/cwm": {
           "forks": 74,
@@ -26729,7 +26724,7 @@
           "stars": 34748
         },
         "facebookresearch/dinov3": {
-          "forks": 971,
+          "forks": 972,
           "pushed_at": "2026-07-15T13:57:04Z",
           "stars": 11483
         },
@@ -26781,7 +26776,7 @@
         "facebookresearch/map-anything": {
           "forks": 285,
           "pushed_at": "2026-08-07T19:34:34Z",
-          "stars": 3781
+          "stars": 3782
         },
         "facebookresearch/matrix": {
           "forks": 45,
@@ -26848,11 +26843,6 @@
           "pushed_at": "2026-09-14T17:43:45Z",
           "stars": 581
         },
-        "facebookresearch/pippo": {
-          "forks": 48,
-          "pushed_at": "2026-07-02T11:17:08Z",
-          "stars": 651
-        },
         "facebookresearch/pixio": {
           "forks": 14,
           "pushed_at": "2026-08-21T18:53:31Z",
@@ -26860,8 +26850,8 @@
         },
         "facebookresearch/project_superdex": {
           "forks": 76,
-          "pushed_at": "2026-10-02T00:02:24Z",
-          "stars": 708
+          "pushed_at": "2026-10-02T10:48:54Z",
+          "stars": 709
         },
         "facebookresearch/projectaria_tools": {
           "forks": 129,
@@ -26886,7 +26876,7 @@
         "facebookresearch/schedule_free": {
           "forks": 79,
           "pushed_at": "2026-07-28T17:10:29Z",
-          "stars": 2325
+          "stars": 2326
         },
         "facebookresearch/seamless_communication": {
           "forks": 1183,
@@ -26923,11 +26913,6 @@
           "pushed_at": "2026-09-22T23:55:26Z",
           "stars": 4611
         },
-        "facebookresearch/videoseal": {
-          "forks": 103,
-          "pushed_at": "2026-07-02T10:11:33Z",
-          "stars": 793
-        },
         "facebookresearch/vizseq": {
           "forks": 56,
           "pushed_at": "2026-09-29T13:48:40Z",
@@ -26941,7 +26926,7 @@
         "facebookresearch/xformers": {
           "forks": 793,
           "pushed_at": "2026-09-23T14:43:01Z",
-          "stars": 10555
+          "stars": 10556
         }
       }
     }

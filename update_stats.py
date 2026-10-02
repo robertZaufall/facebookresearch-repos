@@ -525,6 +525,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "seamless_communication": "language-speech-multimodal",
         "shaper": "vision-video-3d",
         "spdl": "ml-systems-optimization",
+        "stable_signature": "data-evaluation-science",
         "spider": "embodied-ar-robotics",
         "tensor-layouts": "ml-systems-optimization",
         "tribev2": "data-evaluation-science",
