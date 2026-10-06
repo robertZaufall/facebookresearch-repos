@@ -28046,7 +28046,7 @@
         "facebookresearch/MHR": {
           "forks": 79,
           "pushed_at": "2026-09-11T01:09:14Z",
-          "stars": 863
+          "stars": 862
         },
         "facebookresearch/MetaCLIP": {
           "forks": 80,
@@ -28066,7 +28066,7 @@
         "facebookresearch/PhysicsLM4": {
           "forks": 22,
           "pushed_at": "2026-08-21T08:43:25Z",
-          "stars": 361
+          "stars": 362
         },
         "facebookresearch/ProgramBench": {
           "forks": 69,
@@ -28076,12 +28076,12 @@
         "facebookresearch/RAM": {
           "forks": 51,
           "pushed_at": "2026-10-06T01:22:39Z",
-          "stars": 392
+          "stars": 393
         },
         "facebookresearch/ReAgent": {
           "forks": 530,
           "pushed_at": "2026-09-01T04:20:20Z",
-          "stars": 3718
+          "stars": 3719
         },
         "facebookresearch/SustainableConcrete": {
           "forks": 44,
@@ -28116,7 +28116,7 @@
         "facebookresearch/brain2qwerty": {
           "forks": 154,
           "pushed_at": "2026-09-24T16:04:22Z",
-          "stars": 1035
+          "stars": 1037
         },
         "facebookresearch/content-seal": {
           "forks": 14,
@@ -28126,7 +28126,7 @@
         "facebookresearch/context-language-models": {
           "forks": 70,
           "pushed_at": "2026-10-01T00:08:56Z",
-          "stars": 562
+          "stars": 568
         },
         "facebookresearch/cwm": {
           "forks": 74,
@@ -28141,12 +28141,12 @@
         "facebookresearch/detectron2": {
           "forks": 7936,
           "pushed_at": "2026-09-30T06:02:30Z",
-          "stars": 34758
+          "stars": 34759
         },
         "facebookresearch/dinov3": {
-          "forks": 974,
+          "forks": 976,
           "pushed_at": "2026-07-15T13:57:04Z",
-          "stars": 11485
+          "stars": 11486
         },
         "facebookresearch/dynamic_stereo": {
           "forks": 17,
@@ -28169,9 +28169,9 @@
           "stars": 1151
         },
         "facebookresearch/faiss": {
-          "forks": 4550,
+          "forks": 4551,
           "pushed_at": "2026-10-05T19:53:13Z",
-          "stars": 41093
+          "stars": 41096
         },
         "facebookresearch/fvcore": {
           "forks": 236,
@@ -28196,7 +28196,7 @@
         "facebookresearch/map-anything": {
           "forks": 287,
           "pushed_at": "2026-08-07T19:34:34Z",
-          "stars": 3790
+          "stars": 3791
         },
         "facebookresearch/matrix": {
           "forks": 45,
@@ -28226,7 +28226,7 @@
         "facebookresearch/momentum": {
           "forks": 66,
           "pushed_at": "2026-10-02T19:49:16Z",
-          "stars": 418
+          "stars": 417
         },
         "facebookresearch/multimodal": {
           "forks": 174,
@@ -28270,7 +28270,7 @@
         },
         "facebookresearch/project_superdex": {
           "forks": 75,
-          "pushed_at": "2026-10-06T05:21:14Z",
+          "pushed_at": "2026-10-06T09:58:04Z",
           "stars": 715
         },
         "facebookresearch/projectaria_tools": {
@@ -28279,7 +28279,7 @@
           "stars": 853
         },
         "facebookresearch/pytorch3d": {
-          "forks": 1469,
+          "forks": 1470,
           "pushed_at": "2026-09-30T06:03:19Z",
           "stars": 9976
         },
@@ -28291,7 +28291,7 @@
         "facebookresearch/sam3": {
           "forks": 1805,
           "pushed_at": "2026-09-18T15:53:26Z",
-          "stars": 11872
+          "stars": 11875
         },
         "facebookresearch/schedule_free": {
           "forks": 79,
@@ -28305,7 +28305,7 @@
         },
         "facebookresearch/spdl": {
           "forks": 30,
-          "pushed_at": "2026-10-06T00:58:08Z",
+          "pushed_at": "2026-10-06T08:57:18Z",
           "stars": 399
         },
         "facebookresearch/spider": {
@@ -28346,7 +28346,7 @@
         "facebookresearch/xformers": {
           "forks": 794,
           "pushed_at": "2026-09-23T14:43:01Z",
-          "stars": 10555
+          "stars": 10556
         }
       }
     }
