@@ -489,6 +489,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         ]
     ).lower()
     name_overrides = {
+        "actionmesh": "vision-video-3d",
         "augly": "ml-systems-optimization",
         "atlas-lean": "data-evaluation-science",
         "balance": "data-evaluation-science",
