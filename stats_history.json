@@ -32341,7 +32341,7 @@
         "facebookresearch/HyperAgents": {
           "forks": 367,
           "pushed_at": "2026-07-31T16:56:22Z",
-          "stars": 2809
+          "stars": 2810
         },
         "facebookresearch/Kats": {
           "forks": 631,
@@ -32395,7 +32395,7 @@
         },
         "facebookresearch/SustainableConcrete": {
           "forks": 44,
-          "pushed_at": "2026-09-29T22:30:29Z",
+          "pushed_at": "2026-10-18T11:39:04Z",
           "stars": 210
         },
         "facebookresearch/VLM3": {
@@ -32406,12 +32406,12 @@
         "facebookresearch/actionmesh": {
           "forks": 34,
           "pushed_at": "2026-10-07T11:09:53Z",
-          "stars": 441
+          "stars": 442
         },
         "facebookresearch/ai4animationpy": {
           "forks": 257,
           "pushed_at": "2026-08-14T10:58:53Z",
-          "stars": 2115
+          "stars": 2116
         },
         "facebookresearch/atlas-lean": {
           "forks": 41,
@@ -32420,7 +32420,7 @@
         },
         "facebookresearch/balance": {
           "forks": 59,
-          "pushed_at": "2026-10-14T10:04:09Z",
+          "pushed_at": "2026-10-18T11:54:28Z",
           "stars": 776
         },
         "facebookresearch/boxer": {
@@ -32429,24 +32429,24 @@
           "stars": 668
         },
         "facebookresearch/brain2qwerty": {
-          "forks": 172,
+          "forks": 173,
           "pushed_at": "2026-09-24T16:04:22Z",
-          "stars": 1140
+          "stars": 1141
         },
         "facebookresearch/context-language-models": {
           "forks": 84,
           "pushed_at": "2026-10-14T23:17:10Z",
-          "stars": 732
+          "stars": 734
         },
         "facebookresearch/detectron2": {
           "forks": 7943,
           "pushed_at": "2026-09-30T06:02:30Z",
-          "stars": 34921
+          "stars": 34924
         },
         "facebookresearch/dinov2": {
-          "forks": 1281,
+          "forks": 1282,
           "pushed_at": "2026-10-06T09:25:43Z",
-          "stars": 13440
+          "stars": 13442
         },
         "facebookresearch/dynamic_stereo": {
           "forks": 17,
@@ -32464,7 +32464,7 @@
           "stars": 1152
         },
         "facebookresearch/faiss": {
-          "forks": 4558,
+          "forks": 4559,
           "pushed_at": "2026-10-16T13:07:44Z",
           "stars": 41164
         },
@@ -32476,12 +32476,12 @@
         "facebookresearch/gcm": {
           "forks": 51,
           "pushed_at": "2026-10-17T01:24:56Z",
-          "stars": 240
+          "stars": 241
         },
         "facebookresearch/habitat-sim": {
           "forks": 552,
           "pushed_at": "2026-07-21T10:16:05Z",
-          "stars": 3841
+          "stars": 3842
         },
         "facebookresearch/mae_st": {
           "forks": 39,
@@ -32491,7 +32491,7 @@
         "facebookresearch/map-anything": {
           "forks": 287,
           "pushed_at": "2026-08-07T19:34:34Z",
-          "stars": 3825
+          "stars": 3826
         },
         "facebookresearch/matrix": {
           "forks": 45,
@@ -32576,7 +32576,7 @@
         "facebookresearch/pytorch3d": {
           "forks": 1473,
           "pushed_at": "2026-09-30T06:03:19Z",
-          "stars": 9986
+          "stars": 9987
         },
         "facebookresearch/pytorchvideo": {
           "forks": 426,
@@ -32589,7 +32589,7 @@
           "stars": 361
         },
         "facebookresearch/sam3": {
-          "forks": 1826,
+          "forks": 1827,
           "pushed_at": "2026-10-14T23:45:15Z",
           "stars": 12013
         },
@@ -32631,7 +32631,7 @@
         "facebookresearch/vggt-omega": {
           "forks": 365,
           "pushed_at": "2026-09-22T23:55:26Z",
-          "stars": 4661
+          "stars": 4663
         },
         "facebookresearch/vizseq": {
           "forks": 56,
@@ -32640,7 +32640,7 @@
         },
         "facebookresearch/vrs": {
           "forks": 69,
-          "pushed_at": "2026-10-17T11:56:24Z",
+          "pushed_at": "2026-10-18T06:32:23Z",
           "stars": 442
         },
         "facebookresearch/xformers": {
