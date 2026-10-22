@@ -33721,7 +33721,7 @@
         "facebookresearch/HyperAgents": {
           "forks": 367,
           "pushed_at": "2026-07-31T16:56:22Z",
-          "stars": 2826
+          "stars": 2827
         },
         "facebookresearch/Kats": {
           "forks": 631,
@@ -33781,12 +33781,12 @@
         "facebookresearch/actionmesh": {
           "forks": 34,
           "pushed_at": "2026-10-07T11:09:53Z",
-          "stars": 443
+          "stars": 444
         },
         "facebookresearch/ai4animationpy": {
           "forks": 257,
           "pushed_at": "2026-08-14T10:58:53Z",
-          "stars": 2119
+          "stars": 2120
         },
         "facebookresearch/atlas-lean": {
           "forks": 41,
@@ -33795,13 +33795,13 @@
         },
         "facebookresearch/balance": {
           "forks": 60,
-          "pushed_at": "2026-10-20T23:19:36Z",
+          "pushed_at": "2026-10-22T07:47:15Z",
           "stars": 777
         },
         "facebookresearch/boxer": {
           "forks": 76,
           "pushed_at": "2026-07-28T00:31:24Z",
-          "stars": 669
+          "stars": 670
         },
         "facebookresearch/brain2qwerty": {
           "forks": 177,
@@ -33811,17 +33811,17 @@
         "facebookresearch/context-language-models": {
           "forks": 88,
           "pushed_at": "2026-10-14T23:17:10Z",
-          "stars": 750
+          "stars": 751
         },
         "facebookresearch/detectron2": {
-          "forks": 7940,
+          "forks": 7941,
           "pushed_at": "2026-10-20T11:05:59Z",
           "stars": 34943
         },
         "facebookresearch/dinov2": {
           "forks": 1284,
           "pushed_at": "2026-10-06T09:25:43Z",
-          "stars": 13458
+          "stars": 13459
         },
         "facebookresearch/dynamic_stereo": {
           "forks": 17,
@@ -33830,8 +33830,8 @@
         },
         "facebookresearch/fairchem": {
           "forks": 519,
-          "pushed_at": "2026-10-22T05:29:04Z",
-          "stars": 2297
+          "pushed_at": "2026-10-22T11:52:57Z",
+          "stars": 2299
         },
         "facebookresearch/fairseq2": {
           "forks": 147,
@@ -33841,7 +33841,7 @@
         "facebookresearch/faiss": {
           "forks": 4566,
           "pushed_at": "2026-10-22T02:53:07Z",
-          "stars": 41188
+          "stars": 41189
         },
         "facebookresearch/fvcore": {
           "forks": 237,
@@ -33861,7 +33861,7 @@
         "facebookresearch/map-anything": {
           "forks": 288,
           "pushed_at": "2026-08-07T19:34:34Z",
-          "stars": 3848
+          "stars": 3849
         },
         "facebookresearch/matrix": {
           "forks": 45,
@@ -33935,8 +33935,8 @@
         },
         "facebookresearch/project_superdex": {
           "forks": 81,
-          "pushed_at": "2026-10-22T02:41:54Z",
-          "stars": 750
+          "pushed_at": "2026-10-22T08:46:41Z",
+          "stars": 755
         },
         "facebookresearch/projectaria_tools": {
           "forks": 129,
@@ -33946,7 +33946,7 @@
         "facebookresearch/pytorch3d": {
           "forks": 1473,
           "pushed_at": "2026-10-19T22:26:24Z",
-          "stars": 9987
+          "stars": 9988
         },
         "facebookresearch/pytorchvideo": {
           "forks": 426,
@@ -33961,7 +33961,7 @@
         "facebookresearch/sam3": {
           "forks": 1826,
           "pushed_at": "2026-10-14T23:45:15Z",
-          "stars": 12062
+          "stars": 12065
         },
         "facebookresearch/schedule_free": {
           "forks": 79,
@@ -33969,9 +33969,9 @@
           "stars": 2329
         },
         "facebookresearch/seamless_communication": {
-          "forks": 1184,
+          "forks": 1185,
           "pushed_at": "2026-09-08T12:22:24Z",
-          "stars": 11891
+          "stars": 11892
         },
         "facebookresearch/silk": {
           "forks": 66,
@@ -33984,9 +33984,9 @@
           "stars": 400
         },
         "facebookresearch/spider": {
-          "forks": 65,
+          "forks": 66,
           "pushed_at": "2026-09-22T00:35:31Z",
-          "stars": 580
+          "stars": 581
         },
         "facebookresearch/stable_signature": {
           "forks": 68,
@@ -34006,7 +34006,7 @@
         "facebookresearch/vggt-omega": {
           "forks": 367,
           "pushed_at": "2026-09-22T23:55:26Z",
-          "stars": 4678
+          "stars": 4680
         },
         "facebookresearch/vizseq": {
           "forks": 56,
@@ -34021,7 +34021,7 @@
         "facebookresearch/xformers": {
           "forks": 797,
           "pushed_at": "2026-10-09T16:40:37Z",
-          "stars": 10570
+          "stars": 10569
         }
       }
     }
