@@ -44171,7 +44171,7 @@
         "facebookresearch/EgoBlur": {
           "forks": 59,
           "pushed_at": "2026-11-14T18:15:09Z",
-          "stars": 316
+          "stars": 315
         },
         "facebookresearch/HolisticTraceAnalysis": {
           "forks": 103,
@@ -44211,7 +44211,7 @@
         "facebookresearch/RAM": {
           "forks": 52,
           "pushed_at": "2026-11-18T20:31:15Z",
-          "stars": 400
+          "stars": 401
         },
         "facebookresearch/ReAgent": {
           "forks": 533,
@@ -44226,12 +44226,12 @@
         "facebookresearch/VLM3": {
           "forks": 17,
           "pushed_at": "2026-09-24T18:59:10Z",
-          "stars": 445
+          "stars": 447
         },
         "facebookresearch/actionmesh": {
           "forks": 38,
           "pushed_at": "2026-10-07T11:09:53Z",
-          "stars": 447
+          "stars": 448
         },
         "facebookresearch/ai4animationpy": {
           "forks": 257,
@@ -44240,8 +44240,8 @@
         },
         "facebookresearch/atlas-lean": {
           "forks": 58,
-          "pushed_at": "2026-11-23T06:22:20Z",
-          "stars": 339
+          "pushed_at": "2026-11-23T11:55:13Z",
+          "stars": 340
         },
         "facebookresearch/audioseal": {
           "forks": 109,
@@ -44256,10 +44256,10 @@
         "facebookresearch/boxer": {
           "forks": 80,
           "pushed_at": "2026-11-17T20:48:13Z",
-          "stars": 699
+          "stars": 700
         },
         "facebookresearch/brain2qwerty": {
-          "forks": 191,
+          "forks": 192,
           "pushed_at": "2026-09-24T16:04:22Z",
           "stars": 1265
         },
@@ -44271,7 +44271,7 @@
         "facebookresearch/context-language-models": {
           "forks": 101,
           "pushed_at": "2026-11-17T08:42:10Z",
-          "stars": 913
+          "stars": 916
         },
         "facebookresearch/detectron2": {
           "forks": 7941,
@@ -44279,14 +44279,14 @@
           "stars": 35003
         },
         "facebookresearch/dinov2": {
-          "forks": 1292,
+          "forks": 1291,
           "pushed_at": "2026-11-05T05:17:45Z",
-          "stars": 13562
+          "stars": 13563
         },
         "facebookresearch/dinov3": {
-          "forks": 1005,
+          "forks": 1006,
           "pushed_at": "2026-11-02T07:32:28Z",
-          "stars": 11788
+          "stars": 11792
         },
         "facebookresearch/fairchem": {
           "forks": 532,
@@ -44300,8 +44300,8 @@
         },
         "facebookresearch/faiss": {
           "forks": 4662,
-          "pushed_at": "2026-11-22T23:00:17Z",
-          "stars": 41872
+          "pushed_at": "2026-11-23T11:25:11Z",
+          "stars": 41880
         },
         "facebookresearch/gcm": {
           "forks": 54,
@@ -44341,7 +44341,7 @@
         "facebookresearch/multimodal": {
           "forks": 176,
           "pushed_at": "2026-11-16T16:16:31Z",
-          "stars": 1747
+          "stars": 1748
         },
         "facebookresearch/mvdust3r": {
           "forks": 27,
@@ -44376,12 +44376,12 @@
         "facebookresearch/project_superdex": {
           "forks": 87,
           "pushed_at": "2026-11-23T05:26:20Z",
-          "stars": 849
+          "stars": 851
         },
         "facebookresearch/projectaria_tools": {
           "forks": 131,
           "pushed_at": "2026-11-20T05:42:08Z",
-          "stars": 870
+          "stars": 871
         },
         "facebookresearch/pytorch3d": {
           "forks": 1488,
@@ -44399,9 +44399,9 @@
           "stars": 364
         },
         "facebookresearch/sam3": {
-          "forks": 1885,
+          "forks": 1886,
           "pushed_at": "2026-11-17T09:34:51Z",
-          "stars": 12378
+          "stars": 12381
         },
         "facebookresearch/scenescript": {
           "forks": 31,
@@ -44436,7 +44436,7 @@
         "facebookresearch/swe-sweep": {
           "forks": 31,
           "pushed_at": "2026-11-12T14:37:33Z",
-          "stars": 248
+          "stars": 249
         },
         "facebookresearch/vggt-omega": {
           "forks": 380,
