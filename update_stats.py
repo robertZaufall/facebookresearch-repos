@@ -511,6 +511,7 @@ def cluster_repo(repo: dict[str, Any]) -> Cluster:
         "fairseq2": "language-speech-multimodal",
         "faiss": "ml-systems-optimization",
         "fvcore": "ml-systems-optimization",
+        "generic-neuromotor-interface": "embodied-ar-robotics",
         "kats": "data-evaluation-science",
         "meshflow": "vision-video-3d",
         "meta-agents-research-environments": "agents-reasoning-rl",
